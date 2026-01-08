@@ -82,7 +82,7 @@ This project can be easily deployed on *Vercel*:
 ## 👩‍💻 Author
 
 *Sanjana*
-GitHub: [https://github.com/Anusha180805](https://github.com/Anusha180805)
+GitHub: [https://github.com/Sanjana-1909)
 
 ## 📄 License
 
